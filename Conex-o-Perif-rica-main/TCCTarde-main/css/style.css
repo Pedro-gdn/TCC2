@@ -2,21 +2,21 @@
 @import url(menumobile.css);
 @import url(banner.css);
 @import url(conteudo.css);
-@import url(contato.css);
+@import url(footer.css);
+@import url(cliente.css);
 
-*
-{
-    padding: 0;
+* {
     margin: 0;
-}
-
-a{
+    padding: 0;
+  }
+  
+  a {
     color: #fff;
     text-decoration: none;
-    transition: 0.3;
-}
-
-a:hover
-{
+    transition: 0.3s;
+  }
+  
+  a:hover {
     opacity: 0.7;
-}
+  }
+  
